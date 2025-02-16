@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @HvadDev
 - 👀 I’m interested in Discord Bot Development and etc.
-- 🌱 I’m currently learning Lua
+- 🌱 I’m currently learning C#
